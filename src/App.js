@@ -5,7 +5,7 @@ import { useEffect } from "react";
 
 function App() {
   useEffect(() => {
-    ReactGA.initialize("UA-code");
+    ReactGA.initialize("G-Y7KXQ2J1EY");
     ReactGA.pageview("Init page view");
   }, []);
 
